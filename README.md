@@ -6,9 +6,9 @@
 - 💡 Aluno
 - 👨‍💻 Planejo ser um Programador
 - 🏠 Moro no Brasil
-- ⚙ Planejo aprender javascript no futuro
+- ⚙️ Planejo aprender javascript no futuro
 - 😁 Procure me se precisar de ajuda
-- ✈ Tenho o sonho de morar nos Eua
+- ✈️ Tenho o sonho de morar nos Eua
 -->
  <div>
   <a href="https://github.com/LUCAS2077">
