@@ -16,5 +16,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LUCAS2077)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCGBpBNRzgqJJYMiTTrvBxhg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Super_cool2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31grzvjd26t76gpdc5ij2qi4sgsm?si=3fITqs1GRt6MdHnf4yAd2Q&utm_source=copy-link&dl_branch=1)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=LUCAS2077)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
+
+![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LUCAS2077)  
+
+![Profile views](https://gpvc.arturio.dev/LUCAS2077)  
