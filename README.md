@@ -14,8 +14,8 @@
 -->
  <div>
   <a href="https://github.com/LUCAS2077">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=LUCAS2077&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS2077&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LUCAS2077&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
 
