@@ -1,6 +1,6 @@
 # Ola,seja bem vindo ao meu perfil !
 
-![wp4546018-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128780061-4aa52f76-a16f-4281-9794-8ac1965aaf40.jpg)
+
 
 - 🌱 Estudando python.
 - 💡 Aluno.
@@ -29,3 +29,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LUCAS2077)  
 
 ![Profile views](https://gpvc.arturio.dev/LUCAS2077)  
+ 
+ 
+ ![wp4546018-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128780061-4aa52f76-a16f-4281-9794-8ac1965aaf40.jpg)
