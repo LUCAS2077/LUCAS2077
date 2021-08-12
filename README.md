@@ -36,11 +36,10 @@
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fsharp/fsharp-original.svg">
+ 
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
