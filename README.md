@@ -68,6 +68,3 @@
 ![Profile views](https://gpvc.arturio.dev/LUCAS2077)  
  
  ![wp5134484-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128956298-a3049353-34eb-4684-aa4b-43cd58af5165.jpg)
-
-
-
