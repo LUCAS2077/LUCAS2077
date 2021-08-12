@@ -21,6 +21,8 @@
  
 <div>
  <img align="center" alt-Ra-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -31,15 +33,13 @@
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
- <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
- 
+
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
