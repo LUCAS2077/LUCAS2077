@@ -6,7 +6,7 @@
 - 💡 Aluno.
 - 👨‍💻 Planejo ser um Programador.
 - 🏠 Moro no Brasil.
-- ⚙️ Planejo aprender javascript e c++ no futuro.
+- ⚙️ Planejo aprender Machine learning em python no futuro.
 - 😁 Procure me se precisar de ajuda.
 - ✈️ Tenho o sonho de morar nos Eua.
 - 📘 Estou aprendendo inglês.
@@ -18,9 +18,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS2077&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LUCAS2077)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://youtu.be/dQw4w9WgXcQ/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://youtu.be/dQw4w9WgXcQ/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg' alt='python' height='40'>](https://youtu.be/dQw4w9WgXcQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31grzvjd26t76gpdc5ij2qi4sgsm?si=3fITqs1GRt6MdHnf4yAd2Q&utm_source=copy-link&dl_branch=1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/visualstudiocode.svg' alt='visualstudiocode' height='40'>](https://code.visualstudio.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netflix.svg' alt='netflix' height='40'>](https://youtu.be/dQw4w9WgXcQ)  
  
+<div>
+ <img align="center" alt-Ra-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+ <img align="center" alt-Ra-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+ <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
 
@@ -32,11 +40,5 @@
  
  ![wp5134484-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128956298-a3049353-34eb-4684-aa4b-43cd58af5165.jpg)
 
-<div>
- <img align="center" alt-Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt-Ra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt-Ra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <img align="center" alt-Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt-Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
+
 
