@@ -32,3 +32,11 @@
  
  ![wp5134484-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128956298-a3049353-34eb-4684-aa4b-43cd58af5165.jpg)
 
+<div>
+ <img align="center" alt-Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt-Ra-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt-Ra-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <img align="center" alt-Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt-Ra-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</div>
+
