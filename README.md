@@ -39,7 +39,6 @@
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
  <img align="center" alt-Ra-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
