@@ -49,18 +49,14 @@
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
+ <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
- <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
-
 ![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LUCAS2077)  
-
+![wp5134484-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128956298-a3049353-34eb-4684-aa4b-43cd58af5165.jpg)
 ![Profile views](https://gpvc.arturio.dev/LUCAS2077)  
- 
- ![wp5134484-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128956298-a3049353-34eb-4684-aa4b-43cd58af5165.jpg)
