@@ -1,6 +1,5 @@
 # Ola,seja bem vindo ao meu perfil !
 
-
 - 🌱 Estudando python.
 - 💡 Aluno.
 - 👨‍💻 Planejo ser um Programador.
@@ -55,7 +54,7 @@
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 </div>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LUCAS2077) 
 ![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LUCAS2077)  
-![Profile views](https://gpvc.arturio.dev/LUCAS2077)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)
+![Profile views](https://gpvc.arturio.dev/LUCAS2077)
