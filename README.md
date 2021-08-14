@@ -58,5 +58,4 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)  
 ![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=LUCAS2077)  
-![wp5134484-minimal-desktop-4k-wallpapers](https://user-images.githubusercontent.com/87575291/128956298-a3049353-34eb-4684-aa4b-43cd58af5165.jpg)
 ![Profile views](https://gpvc.arturio.dev/LUCAS2077)  
