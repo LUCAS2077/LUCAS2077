@@ -16,7 +16,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LUCAS2077&layout=compact&langs_count=16&theme=gotham"/>
 </div>
  
- 
 <div>
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -30,7 +29,6 @@
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
  <img align="center" alt-Ra-Csharp" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
- <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
  <img align="center" alt-Ra-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
@@ -39,6 +37,5 @@
 </div> 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)
- ![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)
-
+![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)
 ![Profile views](https://gpvc.arturio.dev/LUCAS2077)
