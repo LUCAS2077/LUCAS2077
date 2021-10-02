@@ -55,6 +55,6 @@
 </div> 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=LUCAS2077)
-
+ ![GitHub metrics](https://metrics.lecoq.io/LUCAS2077)
 
 ![Profile views](https://gpvc.arturio.dev/LUCAS2077)
