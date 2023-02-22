@@ -6,7 +6,7 @@
 - 🏠 Moro no Brasil.
 - ⚙️ Planejo aprender Machine learning em python no futuro.
 - 😁 Procure me se precisar de ajuda.
-- ✈️ Tenho o sonho de morar nos Eua.
+- ✈️ Tenho o sonho de trabalhar nos Eua.
 - 📘 Estou aprendendo inglês.
 - 🤓 Estou aberto a sugestões.
 -->
